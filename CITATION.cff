@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: If you use this code, please cite the paper below. You can also cite the software with the repository URL.
+title: Quantum EigenGame for excited state calculation — code
+repository-code: https://github.com/Raijeku/quantum-eigengame
+type: software
+authors:
+  - family-names: Quiroga
+    given-names: David
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Han
+    given-names: Jason
+  - family-names: Kyrillidis
+    given-names: Anastasios
+keywords:
+  - Quantum EigenGame
+  - excited states
+  - VQE
+  - eigenvectors
+  - quantum computing
+license: MIT
+version: 0.1.0
+date-released: 2025-08-25
+preferred-citation:
+  type: article
+  title: Quantum EigenGame for excited state calculation
+  authors:
+    - family-names: Quiroga
+      given-names: David
+    - family-names: Han
+      given-names: Jason
+    - family-names: Kyrillidis
+      given-names: Anastasios
+  year: 2025
+  doi: 10.48550/arXiv.2503.13644
+  journal: arXiv preprint
+  url: https://arxiv.org/abs/2503.13644
